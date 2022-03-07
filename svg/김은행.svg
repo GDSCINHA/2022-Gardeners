@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 375 11" width="375" height="32">
+    <g>
+        <rect class="day" x="0" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="0" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="15" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="15" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="30" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="30" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="45" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="45" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="60" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="60" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="75" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="75" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="90" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="90" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="105" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="105" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="120" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="120" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="135" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="135" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="150" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="150" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="165" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="165" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="180" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="180" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="195" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="195" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="210" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="210" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="225" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="225" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="240" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="240" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="255" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="255" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="270" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="270" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="285" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="285" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="300" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="300" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="315" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="315" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="330" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="330" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="345" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="345" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+        <rect class="day" x="360" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+  
+        <rect class="day" x="360" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+
+      
+    </g>
+</svg>
