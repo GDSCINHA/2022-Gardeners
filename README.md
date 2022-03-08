@@ -7,6 +7,6 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="50px;" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/%EA%B9%80%EC%9D%80%ED%96%89.svg"><br /><sub>김은행<br></sub></a> </td>
+    <td align="center"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/%EA%B9%80%EC%9D%80%ED%96%89.svg"><br /><sub>김은행<br></sub></td>
   </tr>
 </table>
