@@ -36,6 +36,9 @@
   <tr>
     <td align="left"><a href="https://github.com/kwarksh"><img src="https://avatars.githubusercontent.com/u/68470454?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kwarksh.svg"><br /><sup>&nbsp;&nbsp;곽성현<br /></sup></td>
   </tr>
+  <tr>
+    <td align="left"><a href="https://github.com/kimhs982"><img src="https://avatars.githubusercontent.com/u/90133906?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kimhs982.svg"><br /><sup>&nbsp;&nbsp;김형석<br /></sup></td>
+  </tr>
 </table>
 
 <br /><br /><br />
