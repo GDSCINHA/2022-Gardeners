@@ -22,22 +22,22 @@
 
 <table align="center">
   <tr>
-    <td align="left"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kimbank.svg"><br /><sup>&nbsp;&nbsp;김은행<br /></sup></td>
+    <td align="left"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kimbank.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/kimbank">김은행</a><br /></sup></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/heejaedev"><img src="https://avatars.githubusercontent.com/u/47102119?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/heejaedev.svg"><br /><sup>&nbsp;&nbsp;정희재<br /></sup></td>
+    <td align="left"><a href="https://github.com/heejaedev"><img src="https://avatars.githubusercontent.com/u/47102119?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/heejaedev.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/heejaedev">정희재</a><br /></sup></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/DongHwiCho"><img src="https://avatars.githubusercontent.com/u/88920954?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/donghwicho.svg"><br /><sup>&nbsp;&nbsp;조동휘<br /></sup></td>
+    <td align="left"><a href="https://github.com/DongHwiCho"><img src="https://avatars.githubusercontent.com/u/88920954?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/donghwicho.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/DongHwiCho">조동휘<a><br /></sup></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/bub3690"><img src="https://avatars.githubusercontent.com/u/30468434?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/bub3690.svg"><br /><sup>&nbsp;&nbsp;이종법<br /></sup></td>
+    <td align="left"><a href="https://github.com/bub3690"><img src="https://avatars.githubusercontent.com/u/30468434?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/bub3690.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/bub3690">이종법</a><br /></sup></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/kwarksh"><img src="https://avatars.githubusercontent.com/u/68470454?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kwarksh.svg"><br /><sup>&nbsp;&nbsp;곽성현<br /></sup></td>
+    <td align="left"><a href="https://github.com/kwarksh"><img src="https://avatars.githubusercontent.com/u/68470454?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kwarksh.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/kwarksh">곽성현</a><br /></sup></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/kimhs982"><img src="https://avatars.githubusercontent.com/u/90133906?v=4" width="50px;" alt=""/></a><img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kimhs982.svg"><br /><sup>&nbsp;&nbsp;김형석<br /></sup></td>
+    <td align="left"><a href="https://github.com/kimhs982"><img src="https://avatars.githubusercontent.com/u/90133906?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kimhs982.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/kimhs982">김형석</a><br /></sup></td>
   </tr>
 </table>
 
