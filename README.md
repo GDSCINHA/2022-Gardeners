@@ -39,6 +39,9 @@
   <tr>
     <td align="left"><a href="https://github.com/kimhs982"><img src="https://avatars.githubusercontent.com/u/90133906?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kimhs982.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/kimhs982">김형석</a><br /></sup></td>
   </tr>
+  <tr>
+    <td align="left"><a href="https://github.com/deEdenKim"><img src="https://avatars.githubusercontent.com/u/101259627?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/deEdenKim.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/deEdenKim">김서현</a><br /></sup></td>
+  </tr>
 </table>
 
 <br /><br /><br />
