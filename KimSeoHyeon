@@ -1,0 +1,96 @@
+//problem 1
+#include<iostream>
+using namespace std;
+
+class Array {
+private:
+	int* arr; //배열
+	int arrSize; //배열의 크기
+
+public:
+	Array(int sz) {
+		this->arrSize = sz; //배열의 크기 초기화
+		this->arr = new int[arrSize]; //크기가  sz인 배열 동적 할당
+		for (int i = 0; i < sz; i++) { //배열 요소를 0으로 설정
+			arr[i] = 0;
+
+		}
+	}
+
+
+	void add(int idx, int value) { //배열의 삽입
+		cin >> idx >> value;
+		for (int i = arrSize - 2; i >= idx; i--) {
+			arr[i + 1] = arr[i];
+		}
+		arr[idx] = value;
+	}
+
+	void remove(int idx) { //배열의 삭제
+		for (int i = idx + 1; i < arrSize; i++) {
+			arr[i - 1] = arr[i];
+		}
+		arr[arrSize - 1] = 0;
+	}
+
+	void set(int idx, int value) { //배열에 값 할당
+		arr[idx] = value;
+	}
+
+	void print() { // 배열에 저장되어 있는 값 차례로 출력
+		for (int i = 0; i < arrSize; i++) {
+			cout << arr[i] << " ";
+		}
+		cout << endl;
+	}
+
+	void find() {
+
+	}
+
+};
+
+int main() {
+	int T = 0;
+	int N = 0;
+	cin >> T >> N;
+
+	Array ar(N);
+
+
+	while (N--) {
+
+		string cmd; // 명령어
+		cin >> cmd;
+
+		if (cmd == "add")
+		{
+			ar.add( , );
+		}
+		else if (cmd == "remove")
+		{
+			
+		}
+		else if (cmd == "set")
+		{
+			
+		}
+		else if (cmd == "print")
+		{
+			
+		}
+		else if (cmd == "find") {
+			
+		}
+		else if (cmd == "")
+		{
+			
+		}
+	}
+
+
+}
+
+
+
+	
