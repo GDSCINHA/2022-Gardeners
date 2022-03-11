@@ -37,7 +37,7 @@
     <td align="left"><a href="https://github.com/DongHwiCho"><img src="https://avatars.githubusercontent.com/u/88920954?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/donghwicho.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/DongHwiCho">조동휘<a><br /></sup></td>
   </tr>
   <tr>
-    <td align="left"><a href="https://github.com/bub3690"><img src="https://avatars.githubusercontent.com/u/30468434?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/bub3690.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/bub3690">이종법</a><br /></sup></td>
+    <td align="left"><a href="https://github.com/bub3690"><img src="https://avatars.githubusercontent.com/u/30468434?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/bub3690.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/bub3690">이종법</a><sup>👑</sup></sup></td>
   </tr>
   <tr>
     <td align="left"><a href="https://github.com/kwarksh"><img src="https://avatars.githubusercontent.com/u/68470454?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kwarksh.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/kwarksh">곽성현</a><br /></sup></td>
