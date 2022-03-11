@@ -51,6 +51,9 @@
   <tr>
     <td align="left"><a href="https://github.com/D3SP3R4D0S"><img src="https://avatars.githubusercontent.com/u/90773781?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/D3SP3R4D0S.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/D3SP3R4D0S">이건명</a><br /></sup></td>
   </tr>
+  <tr>
+    <td align="left"><a href="https://github.com/omk2477"><img src="https://avatars.githubusercontent.com/u/29624902?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/omk2477.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/omk2477">이승윤</a><br /></sup></td>
+  </tr>
 </table>
 
 <br /><br /><br />
