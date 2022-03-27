@@ -73,7 +73,7 @@
   
         <rect class="day" x="260" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 43 -->
 
-        <rect class="day" x="275" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 19 -->
+        <rect class="day" x="275" y="-8" width="11" height="11" fill="#800000" rx="2" ry="2"/> <!-- 19 -->
   
         <rect class="day" x="275" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 44 -->
 
