@@ -85,7 +85,7 @@
   
         <rect class="day" x="305" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 46 -->
 
-        <rect class="day" x="320" y="-8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 22 -->
+        <rect class="day" x="320" y="-8" width="11" height="11" fill="#800000" rx="2" ry="2"/> <!-- 22 -->
   
         <rect class="day" x="320" y="8" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/> <!-- 47 -->
 
