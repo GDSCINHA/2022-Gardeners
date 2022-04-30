@@ -30,7 +30,8 @@
 <table align="center">
   <tr>
     <td align="left"><a href="https://github.com/kimbank"><img src="https://avatars.githubusercontent.com/u/87305109?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/kimbank.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/kimbank">김은행</a><br /></sup></td>
-  </tr>
+<!--    <td><img width="150" src="https://i.imgur.com/uavBk2D.png"></td> -->
+ </tr>
   <tr>
     <td align="left"><a href="https://github.com/heejaedev"><img src="https://avatars.githubusercontent.com/u/47102119?v=4" width="50px;" alt=""/></a>&nbsp;&nbsp;<img src="https://github.com/GDSCINHA/2022-Gardeners/blob/main/svg/heejaedev.svg"><br /><sup>&nbsp;&nbsp;<a href="https://github.com/heejaedev">정희재</a><br /></sup></td>
   </tr>
